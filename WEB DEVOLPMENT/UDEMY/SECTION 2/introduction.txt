@@ -1,0 +1,10 @@
+HTML=HYPER LINK MARK UP LANGAUAGE
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
+
+https://www.w3schools.com/html/(resouces for HEADINGS LINES)
+
+****For getting spaces between the lines and to cut the line in HTML,we need to use<br>
+
+******* for getting horzontal lines <hr> should use
+****** for commenting  in HTML <! --ryfhdukjrhfysuef-->
